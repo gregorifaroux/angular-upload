@@ -20,7 +20,7 @@ Open browser to localhost:3000 and you will see the 'Welcome to Express' message
 ### To start the client:
 
 ```
-cd public/test-upload
+cd public/testupload
 ng serve
 ```
 
