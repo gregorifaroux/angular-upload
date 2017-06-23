@@ -6,6 +6,7 @@ $ npm install
 $ cd public/testupload/
 $ npm install
 $ cd ../..
+```
 
 ### To start the server:
 
