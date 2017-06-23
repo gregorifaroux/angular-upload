@@ -3,7 +3,9 @@ import { Component, OnInit } from '@angular/core';
 // import the file uploader plugin
 import {  FileUploader } from 'ng2-file-upload/ng2-file-upload';
 // define the constant url we would be uploading to.
-const URL = 'http://localhost:3000/';
+// const URL = 'http://localhost:3000/';
+const URL = 'https://sarah-dev-api.azurewebsites.net/file/uploadfile';
+
 // create the component properties
 @Component({
   // define the element to be selected from the html structure.
